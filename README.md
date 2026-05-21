@@ -110,14 +110,9 @@ Melhoria contínua de processos.
 
 ---
 
-## Estatísticas GitHub
-
+## 📈 Atividade no GitHub
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Delgado-Sly&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delgado-Sly&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Delgado-Sly&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
 ---
