@@ -142,16 +142,6 @@ Melhoria contínua de processos.
 
 ---
 
-## Contribuições
-
-<div align="center">
-
-![snake gif](https://github.com/Delgado-Sly/Delgado-Sly/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 ## Visitantes
 
 <div align="center">
