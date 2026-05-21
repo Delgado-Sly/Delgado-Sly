@@ -1,4 +1,3 @@
-```md
 <!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4079a8,100:00c6ff&height=180&section=header&text=Salomão%20Delgado&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
@@ -176,4 +175,3 @@ Melhoria contínua de processos.
 
 <!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4079a8,100:00c6ff&height=120&section=footer"/>
-```
