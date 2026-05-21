@@ -121,25 +121,6 @@ Melhoria contínua de processos.
 </div>
 
 ---
-
-## GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Delgado-Sly&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Delgado-Sly&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
 ---
 
 ## Visitantes
